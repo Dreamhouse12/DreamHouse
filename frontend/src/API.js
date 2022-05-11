@@ -5,7 +5,7 @@ var baseURL;
 // if (process.env.REACT_APP_ENVIRONMENT && process.env.REACT_APP_ENVIRONMENT === 'PRODUCTION') {
 //     baseURL = process.env.REACT_APP_API_BASE_URL;
 // } else {
-baseURL = 'http://127.0.0.1:8000';
+    baseURL = 'https://backend-dreamhouse1.herokuapp.com/';
 // }
 // baseURL = 'https://dreamhouse-backend.herokuapp.com/';
 
